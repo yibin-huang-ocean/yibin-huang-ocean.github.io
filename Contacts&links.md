@@ -1,9 +1,6 @@
 ---
 title: "Contacts"
 layout: page
-sitemap:
-  lastmod: 2021-08-08
-  exclude: 'no'
 ---
 
 <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:sijiazou2018@gmail.com">sijiazou2018@gmail.com</a>
