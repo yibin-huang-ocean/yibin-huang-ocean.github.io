@@ -1,4 +1,4 @@
-title: "Dr. Sijia Zou"
+title: "Sijia Zou, Ph.D."
 author: "Sijia Zou"
 description: "Sijia Zou, Ph.D."
 permalink: /:title/
@@ -21,8 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications.md", title: "Publications", icon: book}
   - {file: "Contacts&links.md", title: "Contacts", url: "https://sijiazou.github.io/Contacts", icon: address-book}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:sijiazou2018@gmail.com"}
+# external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+#   - {title: Mail, icon: envelope, url: "mailto:sijiazou2018@gmail.com"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
