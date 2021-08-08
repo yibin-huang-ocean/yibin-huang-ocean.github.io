@@ -1,5 +1,5 @@
 ---
-title: "Contact & Links"
+title: "Contacts"
 layout: page
 sitemap:
   lastmod: 2021-08-08
