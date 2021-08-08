@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://sijiazou.github.io", title: "About Me",icon:user} #icon: "home"
+  - {file: "index.md", title: "About Me",icon:user} #icon: "home"
   - {file: "Research Interest.md", title: "Research Interest", icon: book}
   - {file: "Publications.md", title: "Publications", icon: book}
   - {file: "Contacts&links.md", title: "Contacts", icon: address-book}
