@@ -7,7 +7,8 @@ layout: page
 
 ## On the Linkage between Labrador Sea Convection and the AMOC
 
-> While strong convection in the Labrador Sea induces important changes of temperature and salinity in the basin interior, the export of these property anomalies to the boundary current largely takes place along density surfaces. As a result, the diapycnal transformation - the imprint on the AMOC - is relatively small. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
+> The Atlantic Meridional Overturning Circulation (AMOC), a critical component of the climate system, was shown to be linked to convective activities in the Labrador Sea according to some modeling studies. This linkage has been questioned by recent observations from the Overturning in the Subpolar North Atlantic Program (OSNAP), which revealed weak diapycnal transformation (i.e. imprint on the AMOC) in the Labrador Sea. <br/>
+> In our recent study, we further attribute the weak diapycnal transformation in the Labrador Sea to significant density compensation by temperature and salinity changes in the boundary currents of the basin. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
 > For more information: [Zou et al. 2020. Nature Geoscience](http://doi.org/10.1038/s41561-019-0517-1). 
 
 <img width="80%" height="auto" src="/assets/overturning.png">
