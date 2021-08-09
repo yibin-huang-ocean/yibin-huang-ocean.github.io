@@ -24,6 +24,6 @@ Figure: Trajectories of the floats after launch (launch locations are indicated 
 
 * Based on the float trajectories, spreading pathways of the Iceland-Scotland Overflow Water (ISOW) in the eastern North Atlantic are revised. For more information, see [Zou et al. 2017. Progress in Oceanography](http://doi.org/10.1016/j.pocean.2017.10.003). 
 
-<img width="60%" height="auto" style="float: left; margin-right: 20px;" src="/assets/ISOW.png">
+<img width="60%" height="auto" style="float: left; margin-right: 50px;" src="/assets/ISOW.png">
 
 Figure: Revised pathways (blue curves) for ISOW in the eastern North Atlantic based on floats. Volume transports (Sv) for major branches from a high-resolution ocean model are labeled in blue, compared to transports reported in previous studies (magenta). Percentages in red indicate the Lagrangian quantification of ISOW pathways. 
