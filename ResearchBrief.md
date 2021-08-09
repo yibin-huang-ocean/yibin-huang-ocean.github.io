@@ -3,6 +3,8 @@ title: "Research Brief"
 layout: page
 ---
 
+---
+
 ## On the Linkage between Labrador Sea Convection and the AMOC
 
 > While strong convection in the Labrador Sea induces important changes of temperature and salinity in the basin interior, the export of these property anomalies to the boundary current largely takes place along density surfaces. As a result, the diapycnal transformation - the imprint on the AMOC - is relatively small. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
