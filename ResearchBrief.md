@@ -20,7 +20,9 @@ Figure: Observed weak diapycnal transformation (numbers in black) at OSNAP-West 
 
 <img width="80%" height="auto" src="/assets/float.png">
 
-Figure: Trajectories of the floats after launch (launch locations are indicated as black circles). Bottom topography from 1000 m to 3000 m is shaded in color. CGFZ: Charlie-Gibbs Fracture Zone; ISOW: Iceland-Scotland Overflow Water; DSOW: Denmark Strait Overflow Water; NEADW: North East Atlantic Deep Water. 
+Figure: Trajectories of the floats after launch (launch locations are indicated as black circles). Bottom topography from 1000 m to 3000 m is shaded in color. CGFZ: Charlie-Gibbs Fracture Zone; ISOW: Iceland-Scotland Overflow Water; DSOW: Denmark Strait Overflow Water; NEADW: North East Atlantic Deep Water. <br/>
+<br/>
+<br/>
 
 * Based on the float trajectories, spreading pathways of the Iceland-Scotland Overflow Water (ISOW) in the eastern North Atlantic are revised. For more information, see [Zou et al. 2017. Progress in Oceanography](http://doi.org/10.1016/j.pocean.2017.10.003). 
 
