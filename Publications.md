@@ -3,15 +3,22 @@ layout: page
 title: "Publications"
 ---
 
+---
 
 ### Refereed
 
 [12] Devana M.S., W.E. Johns, A. Houk and **S. Zou**. **Rapid Entrainment-forced Freshening of the Iceland Scotland Overflow**. *Submitted to GRL*.
-[11] Johns W.E., M. Devana, A. Houk and S. Zou. Moored Observations of the Iceland-Scotland Overflow Plume along the Eastern Flank of the Reykjanes Ridge. Submitted to JGR Oceans.
-[10] Liu. Z., S. Gu, S. Zou, S. Zhang and Y. Song. Wind Steering of Eastern Interior Pathway of Atlantic Meridional Overturning Circulation. Submitted.
-[9] Zou. S., A.S. Bower, H. Furey, R.S. Pickart, L. Houpert and N.P. Holliday. Observed Denmark Strait Overflow Cyclones around Greenland. Submitted to JPO.
-[8] Gu. S., Z. Liu, H.C. Ng, J. Lynch-Stieglitz, J.F. McManus, M. Spall, A. Jahn, C. He, L. Li, M. Yan, L. Wu and S. Zou. Intensified AMOC Eastern Interior Pathway of Glacial North Atlantic Intermediate Water. Submitted.
-[7] Zou. S., A. Bower, H. Furey, M.S. Lozier and X. Xu. Redrawing the Iceland-Scotland Overflow Water Pathways in the North Atlantic. Nature Communications. doi.org/10.1038/s41467-020-15513-4.
+
+[11] Johns W.E., M. Devana, A. Houk and **S. Zou**. **Moored Observations of the Iceland-Scotland Overflow Plume along the Eastern Flank of the Reykjanes Ridge**. *Submitted to JGR Oceans*.
+
+[10] Liu. Z., S. Gu, **S. Zou**, S. Zhang and Y. Song. **Wind Steering of Eastern Interior Pathway of Atlantic Meridional Overturning Circulation**. *Submitted*.
+
+[9] **Zou. S.**, A.S. Bower, H. Furey, R.S. Pickart, L. Houpert and N.P. Holliday. **Observed Denmark Strait Overflow Cyclones around Greenland**. *Submitted to JPO*.
+
+[8] Gu. S., Z. Liu, H.C. Ng, J. Lynch-Stieglitz, J.F. McManus, M. Spall, A. Jahn, C. He, L. Li, M. Yan, L. Wu and **S. Zou**. **Intensified AMOC Eastern Interior Pathway of Glacial North Atlantic Intermediate Water**. *Submitted*.
+
+[7] **Zou. S.**, A. Bower, H. Furey, M.S. Lozier and X. Xu. **Redrawing the Iceland-Scotland Overflow Water Pathways in the North Atlantic**. *[Nature Communications](http://doi.org/10.1038/s41467-020-15513-4)*.
+
 [6] Zou, S., Lozier, M.S. and Xu, X., 2020. Latitudinal Structure of the Meridional Overturning Circulation Variability on interannual to decadal time scales in the North Atlantic Ocean. Journal of Climate. https://doi.org/10.1175/JCLI-D-19-0215.1.
 [5] Zou. S., M.S. Lozier, F. Li, R. Abernathey and L. Jackson, 2020. Density-compensated overturning in the Labrador Sea. Nature Geoscience. doi.org/10.1038/s41561-019-0517-1.
 [4] Bower, A., S. Lozier, A. Biastoch, K. Drouin, N. Foukal, H. Furey, M. Lankhorst, S. Rühs, and S. Zou, 2019. Lagrangian Views of the Pathways of the Atlantic Meridional Overturning Circulation. Journal of Geophysical Research: Oceans. doi.org/10.1029/2019JC015014.
