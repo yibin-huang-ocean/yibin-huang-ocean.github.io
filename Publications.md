@@ -29,7 +29,7 @@ title: "Publications"
 
 [2] **Zou, S.**, M.S. Lozier, W. Zenk, A.S. Bower and W. Johns, 2017. **Observed and modeled pathways of the Iceland Scotland Overflow Water in the eastern North Atlantic**. *[Progress in Oceanography](http://doi.org/10.1016/j.pocean.2017.10.003)*.
 
-[1] **Zou, S.** and M.S. Lozier, 2016. **Breaking the linkage between Labrador Sea Water production and its export to the subtropical gyre**. *[Journal of Physical Oceanography](http://doi: 10.1175/JPO-D-15-0210.1)*.
+[1] **Zou, S.** and M.S. Lozier, 2016. **Breaking the linkage between Labrador Sea Water production and its export to the subtropical gyre**. *[Journal of Physical Oceanography](http://doi:10.1175/JPO-D-15-0210.1)*.
 
 
 ### Thesis:
