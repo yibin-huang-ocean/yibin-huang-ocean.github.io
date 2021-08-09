@@ -20,7 +20,7 @@ Figure: Observed weak diapycnal transformation (numbers in black) at OSNAP-West 
 
 ## Deep Ocean Circulation in the Subpolar North Atlantic
 
-> Deep ocean circulation in the subpolar North Atlantic constitutes the AMOC lower limb. Its circulation pathways and variability are important for carbon uptake, storage and export in the deep ocean. In order to improve current understanding of the subpolar deep circulation, 125 floats were released at depths > 1800 m along the rim of the subpolar basin as part of OSNAP. These floats drifted in ocean for a maximum lifetime of 2 years and primarily tracked spreading pathways for the deep overflow waters.
+> Deep ocean circulation in the subpolar North Atlantic constitutes the AMOC lower limb. Its circulation pathways and variability are important for carbon uptake, storage and export in the ocean. In order to improve current understanding on the deep circulation, 125 floats were released at depths > 1800 m along the rim of the subpolar basin as part of OSNAP. These floats drifted in ocean for a maximum lifetime of 2 years and primarily tracked spreading pathways for the deep overflow waters.
 
 <img width="80%" height="auto" src="/assets/float.png">
 
