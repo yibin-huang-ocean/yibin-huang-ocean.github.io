@@ -7,9 +7,9 @@ layout: page
 
 ## On the Linkage between Labrador Sea Convection and the AMOC
 
-> The Atlantic Meridional Overturning Circulation (AMOC), a critical component of the climate system, was shown to be linked to convective activities in the Labrador Sea according to some modeling studies. This linkage has been questioned by recent observations from the Overturning in the Subpolar North Atlantic Program (OSNAP), which revealed weak diapycnal transformation (i.e. imprint on the AMOC) in the Labrador Sea. <br/>
+> The Atlantic Meridional Overturning Circulation (AMOC), a critical component of the climate system, was shown to be linked to convective activities in the Labrador Sea according to some modeling studies. However, this linkage was questioned by recent observations from the Overturning in the Subpolar North Atlantic Program (OSNAP), which revealed weak diapycnal transformation (i.e. imprint on the AMOC) in the Labrador Sea. <br/>
 > <br/>
-> In our recent study, we further attribute the weak diapycnal transformation in the Labrador Sea to significant density compensation by temperature and salinity changes in the boundary currents of the basin. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
+> Using OSNAP and reanalysis dataset, we find that the weak diapycnal transformation in the Labrador Sea can be attributed to significant density compensation by temperature and salinity changes in the basin's boundary currents. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
 > For more information: [Zou et al. 2020. Nature Geoscience](http://doi.org/10.1038/s41561-019-0517-1). 
 
 <img width="80%" height="auto" src="/assets/overturning.png">
@@ -20,7 +20,7 @@ Figure: Observed weak diapycnal transformation (numbers in black) at OSNAP-West 
 
 ## Deep Ocean Circulation in the Subpolar North Atlantic
 
-> Deep ocean circulation in the subpolar North Atlantic constitutes the AMOC lower limb. Its circulation pathways and variability are important for carbon uptake, storage and export in the deep ocean. In order to understand deep circulation in the subpolar North Atlantic, 125 floats were released at depths > 1800 m along the rim of the subpolar basin. They drifted in ocean for a maximum lifetime of 2 years. The float program is a part of the Overturning in the Subpolar North Atlantic Program (OSNAP). 
+> Deep ocean circulation in the subpolar North Atlantic constitutes the AMOC lower limb. Its circulation pathways and variability are important for carbon uptake, storage and export in the deep ocean. In order to improve current understanding of the subpolar deep circulation, 125 floats were released at depths > 1800 m along the rim of the subpolar basin as part of OSNAP. These floats drifted in ocean for a maximum lifetime of 2 years and primarily tracked spreading pathways for the deep overflow waters.
 
 <img width="80%" height="auto" src="/assets/float.png">
 
