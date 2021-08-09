@@ -26,20 +26,15 @@ Figure: Trajectories of the floats after launch (launch locations are indicated 
 
 <img width="65%" height="auto" style="float: left; margin-right: 20px; margin-top: 0px;" src="/assets/ISOW.png">
 
-Figure: Revised pathways (blue curves) for ISOW in the eastern North Atlantic based on floats. Volume transports (Sv) for major branches from a high-resolution ocean model are labeled in blue, compared to transports reported in previous studies (magenta). Percentages in red indicate the Lagrangian quantification of ISOW pathways. 
-
-
-**3. COVID-19 Disease Tracking (Mar 2020 – Jun 2020)**<br/>
-
-
-
-
-
-
-
-
-**Project description:** In this project, As a member of the development team, I developed an MVP mobile application for disease tracking during COVID-19 for both Android and iPhone. We explored the possibility to use technology to contain highly infectious diseases through GPS data sharing. And our results show that people are, very often, willing to share their GPS data in an effort to contain highly infectious diseases such as COVID-19, as long as their privacy is protected. Our conclusion indicates the great potential to use novel approaches to tackle highly infectious diseases such as COVID-19.<br/>
-
+Figure: Revised pathways (blue curves) for ISOW in the eastern North Atlantic based on floats. Volume transports (Sv) for major branches from a high-resolution ocean model are labeled in blue, compared to transports reported in previous studies (magenta). Percentages in red indicate the Lagrangian quantification of ISOW pathways.<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 * Can upper-layer eddies influence the deep water spreading pathways? Float observations show that eddy and meandering activities associated with the North Atlantic Current could determine the ISOW pathways near the Charlie-Gibbs Fracture Zone (CGFZ). For more information: [Zou et al. 2020. Nature Communications] (http://doi.org/10.1038/s41467-020-15513-4). 
 
 
