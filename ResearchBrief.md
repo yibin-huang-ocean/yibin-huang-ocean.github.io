@@ -5,14 +5,11 @@ layout: page
 
 ## On the linkage between Labrador Sea convection and the AMOC
 
-> Weak diapycnal transformation (numbers in black) suggests a small contribution of Labrador Sea to the AMOC.
+> While strong convection in the Labrador Sea induces important changes of temperature and salinity in the basin interior, the export of these property anomalies to the boundary current largely takes place along density surfaces. As a result, the diapycnal transformation - the imprint on the AMOC - is relatively small. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
 
-<img width="60%" height="auto" style="float: left; margin-right: 20px;" src="/assets/overturning.png">
+<img width="70%" height="auto" style="float: left; margin-right: 20px;" src="/assets/overturning.png">
  
+Figure: Observed weak diapycnal transformation (numbers in black) at OSNAP-West (i.e. across the Labrador Sea). Colors show mean velocity perpendicular to the section, with density contoured in gray. Numbers represent the estimated transport (unit: Sv) in  each density layer: red (blue) number denotes the total flux into (out of) the basin and black denotes the net. Black arrows indicate directions of diapycnal transformation. WGC: West Greenland Current; LC: Labrador Current. Time period: August 2014 - June 2016.
 
-  Figure: Observed mean velocity perpendicular to the OSNAP West section, with density contoured in gray. Numbers represent the estimated transport (unit: Sv) in  each density layer: red (blue) number denotes the total positive (negative) flux and black denotes the net. Black arrows indicate directions of diapycnal transformation. WGC: West Greenland Current; LC: Labrador Current. Time period: August 2014 - June 2016.
-
-
-
-However, in contrast to weak diapycnal transformation, transformation in θ-S space is 3-4 times stronger, suggesting significant density compensation (isopycnal mixing) in the Labrador Sea.
-For more information: Zou et al. 2020. Nature Geoscience. doi.org/10.1038/s41561-019-0517-1. 
+> In contrast to the weak diapycnal transformation, transformation in θ-S space is 3-4 times stronger, suggesting significant density compensation (isopycnal mixing) in the Labrador Sea.
+> For more information: [Zou et al. 2020. Nature Geoscience](doi.org/10.1038/s41561-019-0517-1). 
