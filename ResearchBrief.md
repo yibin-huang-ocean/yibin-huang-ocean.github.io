@@ -7,7 +7,7 @@ layout: page
 
 > While strong convection in the Labrador Sea induces important changes of temperature and salinity in the basin interior, the export of these property anomalies to the boundary current largely takes place along density surfaces. As a result, the diapycnal transformation - the imprint on the AMOC - is relatively small. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
 
-<img width="100%" height="auto" style="float: left; margin-right: 20px;" src="/assets/overturning.png">
+<img width="90%" height="auto" src="/assets/overturning.png">
  
 Figure: Observed weak diapycnal transformation (numbers in black) at OSNAP-West (i.e. across the Labrador Sea). Colors show mean velocity perpendicular to the section, with density contoured in gray. Numbers represent the estimated transport (unit: Sv) in  each density layer: red (blue) number denotes the total flux into (out of) the basin and black denotes the net. Black arrows indicate directions of diapycnal transformation. WGC: West Greenland Current; LC: Labrador Current. Time period: August 2014 - June 2016.
 
