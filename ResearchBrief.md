@@ -35,6 +35,11 @@ Figure: Revised pathways (blue curves) for ISOW in the eastern North Atlantic ba
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 * Can upper-layer eddies influence the deep water spreading pathways? Float observations show that eddy and meandering activities associated with the North Atlantic Current could determine the ISOW pathways near the Charlie-Gibbs Fracture Zone (CGFZ). For more information: [Zou et al. 2020. Nature Communications] (http://doi.org/10.1038/s41467-020-15513-4). 
 
 
