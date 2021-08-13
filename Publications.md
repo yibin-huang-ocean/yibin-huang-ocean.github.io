@@ -7,15 +7,17 @@ title: "Publications"
 
 ### Refereed
 
+[14] Wang, S., A. Foster, E.A. Lenz, J. Kessler, J. Stroeve, L.O. Anderson, M. Turetsky, R. Betts, **S. Zou**, W. Liu, W.R. Boos, Z. Hausfather. **Mechanisms and impacts of climate tipping elements**. *Submitted to Reviews of Geophysics*
+
 [13] Zhai, Y., J. Yang, X. Wan and **S. Zou**. **The Eastern Atlantic Basin Pathway for the Export of the North Atlantic Deep Waters**. *Submitted to GRL*.
 
 [12] Devana, M.S., W.E. Johns, A. Houk and **S. Zou**. **Rapid Entrainment-forced Freshening of the Iceland Scotland Overflow**. *Submitted to GRL*.
 
 [11] Liu, Z., S. Gu, **S. Zou**, S. Zhang and Y. Song. **Wind Steering of Eastern Interior Pathway of Atlantic Meridional Overturning Circulation**. *Submitted*.
 
-[10] **Zou, S.**, A.S. Bower, H. Furey, R.S. Pickart, L. Houpert and N.P. Holliday. **Observed Denmark Strait Overflow Cyclones around Greenland**. *Submitted to JPO*.
+[10] Gu, S., Z. Liu, H.C. Ng, J. Lynch-Stieglitz, J.F. McManus, M. Spall, A. Jahn, C. He, L. Li, M. Yan, L. Wu and **S. Zou**. **Intensified AMOC Eastern Interior Pathway of Glacial North Atlantic Intermediate Water**. *Submitted*.
 
-[9] Gu, S., Z. Liu, H.C. Ng, J. Lynch-Stieglitz, J.F. McManus, M. Spall, A. Jahn, C. He, L. Li, M. Yan, L. Wu and **S. Zou**. **Intensified AMOC Eastern Interior Pathway of Glacial North Atlantic Intermediate Water**. *Submitted*.
+[9] **Zou, S.**, A.S. Bower, H. Furey, R.S. Pickart, L. Houpert and N.P. Holliday. **Observed Denmark Strait Overflow Cyclones around Greenland**. *Accepted by Journal of Physical Oceanography*.
 
 [8] Johns, W.E., M. Devana, A. Houk and **S. Zou**. **Moored Observations of the Iceland-Scotland Overflow Plume along the Eastern Flank of the Reykjanes Ridge**. *Accepted by Journal of Geophysical Research: Oceans*.
 
