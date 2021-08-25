@@ -7,6 +7,8 @@ title: "Publications"
 
 ### Refereed
 
+[15] Lozier, M.S., A.S. Bower, H.H. Furey, K.L. Drouin, X. Xu and **S. Zou**. **Overflow Water Pathways in the North Atlantic**. *Submitted to PNAS*
+
 [14] Wang, S., A. Foster, E.A. Lenz, J. Kessler, J. Stroeve, L.O. Anderson, M. Turetsky, R. Betts, **S. Zou**, W. Liu, W.R. Boos, Z. Hausfather. **Mechanisms and Impacts of Climate Tipping Elements**. *Submitted to Reviews of Geophysics*
 
 [13] Zhai, Y., J. Yang, X. Wan and **S. Zou**. **The Eastern Atlantic Basin Pathway for the Export of the North Atlantic Deep Waters**. *Submitted to GRL*.
