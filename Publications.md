@@ -19,7 +19,7 @@ title: "Publications"
 
 [10] Gu, S., Z. Liu, H.C. Ng, J. Lynch-Stieglitz, J.F. McManus, M. Spall, A. Jahn, C. He, L. Li, M. Yan, L. Wu and **S. Zou**. **Intensified AMOC Eastern Interior Pathway of Glacial North Atlantic Intermediate Water**. *Submitted*.
 
-[9] **Zou, S.**, A.S. Bower, H. Furey, R.S. Pickart, L. Houpert and N.P. Holliday, 2021. **Observed Deep Cyclonic Eddies around Greenland**. *[Journal of Physical Oceanography](https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0288.1.xml)*.
+[9] **Zou, S.**, A.S. Bower, H. Furey, R.S. Pickart, L. Houpert and N.P. Holliday, 2021. **Observed Deep Cyclonic Eddies around Southern Greenland**. *[Journal of Physical Oceanography](https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0288.1.xml)*.
 
 [8] Johns, W.E., M. Devana, A. Houk and **S. Zou**, 2021. **Moored Observations of the Iceland-Scotland Overflow Plume along the Eastern Flank of the Reykjanes Ridge**. *[Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017524)*.
 
