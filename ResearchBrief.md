@@ -12,9 +12,9 @@ layout: page
 > Using OSNAP and reanalysis dataset, we find that the weak diapycnal transformation in the Labrador Sea can be attributed to significant density compensation by temperature and salinity changes in the basin's boundary currents. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
 > For more information: [Zou et al. 2020. Nature Geoscience](http://doi.org/10.1038/s41561-019-0517-1). 
 
-<img width="80%" height="auto" src="/assets/overturning.png">
- 
-Figure: Observed weak diapycnal transformation (numbers in black) at OSNAP-West (i.e. across the Labrador Sea). Colors show mean velocity perpendicular to the section, with density contoured in gray. Numbers represent the estimated transport (unit: Sv) in  each density layer: red (blue) number denotes the total flux into (out of) the basin and black denotes the net. Black arrows indicate directions of diapycnal transformation. WGC: West Greenland Current; LC: Labrador Current. Time period: August 2014 - June 2016. In contrast to the weak diapycnal transformation, transformation in θ-S space is 3-4 times stronger, suggesting significant density compensation (isopycnal mixing) in the Labrador Sea.
+<img width="80%" height="auto" src="/assets/schematic.png">
+
+Figure: A schematic illustrating water mass transformation in the Labrador Sea. Warm and salty waters enter the basin via the West Greenland Current (WGC) and exit in the Labrador Current (LC) with cold and fresh anomalies, a result from the exchange between the boundary current and the cold and fresh basin interior. The resultant sharp tilt of isotherm (i.e. constant temperature surface) from the WGC to the LC suggests a strong transformation with respect to temperature space (red arrow). In contrast, the isopycnal (i.e. constant density surface) slope is comparable on both sides of the basin due to density compensation, which results in a weak diapycnal transformation (black arrow).
 
 ---
 
