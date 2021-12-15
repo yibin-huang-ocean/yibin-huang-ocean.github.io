@@ -15,7 +15,7 @@ title: "Publications"
 
 [12] Gu, S., Z. Liu, H.C. Ng, J. Lynch-Stieglitz, J.F. McManus, M. Spall, A. Jahn, C. He, L. Li, M. Yan, L. Wu and **S. Zou**. **Intensified AMOC Eastern Interior Pathway of Glacial North Atlantic Intermediate Water**. *Submitted*.
 
-[11] Zhai, Y., J. Yang, X. Wan and **S. Zou**. **The Eastern Atlantic Basin Pathway for the Export of the North Atlantic Deep Waters**. *Accepted by GRL*.
+[11] Zhai, Y., J. Yang, X. Wan and **S. Zou**. **The Eastern Atlantic Basin Pathway for the Export of the North Atlantic Deep Waters**. *[Geophysical Research Letters](https://doi.org/10.1029/2021GL095615)*.
 
 [10] Devana, M.S., W.E. Johns, A. Houk and **S. Zou**. **Rapid Entrainment-forced Freshening of the Iceland Scotland Overflow**. *[Geophysical Research Letters](https://doi.org/10.1029/2021GL094396)*.
 
