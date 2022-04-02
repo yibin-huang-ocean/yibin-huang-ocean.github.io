@@ -35,9 +35,7 @@ Figure: Trajectories of the floats after launch (launch locations are indicated 
 
 Figure: Gridded mean velocity vectors in the deep (> 1800 m) subpolar North Atlantic, color coded by the velocity magnitudes. The gridded field is constructed using Objective Analysis. White hatches denote areas where estimates may not be reliable due to relatively sparse measurements.
 
-> <br/>
-
-<img width="90%" height="auto" src="/assets/combined.png">
+<img width="120%" height="auto" src="/assets/combined.png">
 
 <img width="65%" height="auto" style="float: left; margin-right: 20px; margin-top: 0px;" src="/assets/ISOW.png">
 
