@@ -29,12 +29,10 @@ Figure: A schematic illustrating water mass transformation in the Labrador Sea. 
 <img width="90%" height="auto" src="/assets/float2.png">
 
 Figure: Trajectories of the floats after launch (launch locations are indicated as red circles). Bottom topography is shaded in blue. CGFZ: Charlie-Gibbs Fracture Zone; ISOW: Iceland-Scotland Overflow Water; DSOW: Denmark Strait Overflow Water. <br/>
-<br/>
 
 <img width="90%" height="auto" src="/assets/gridded.png">
 
 Figure: Gridded mean velocity vectors in the deep (> 1800 m) subpolar North Atlantic, color coded by the velocity magnitudes. The gridded field is constructed using Objective Analysis. White hatches denote areas where estimates may not be reliable due to relatively sparse measurements.
-
 
 <img width="65%" height="auto" style="float: left; margin-right: 20px; margin-top: 0px;" src="/assets/ISOW.png">
 
