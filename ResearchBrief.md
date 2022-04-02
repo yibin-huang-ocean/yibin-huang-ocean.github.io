@@ -20,9 +20,11 @@ Figure: A schematic illustrating water mass transformation in the Labrador Sea. 
 
 ## Deep Ocean Circulation in the Subpolar North Atlantic
 
-> Deep ocean circulation in the subpolar North Atlantic constitutes the AMOC lower limb. Its circulation pathways and variability are important for carbon uptake, storage and export in the ocean. In order to improve current understanding on the deep circulation, 125 floats were released at depths > 1800 m along the rim of the subpolar basin as part of OSNAP. These floats drifted in ocean for a maximum lifetime of 2 years and primarily tracked spreading pathways for the deep overflow waters.
+> Deep ocean circulation in the subpolar North Atlantic constitutes the AMOC lower limb. Its circulation pathways and variability are important for carbon uptake, storage and export in the ocean. In order to improve current understanding on the deep circulation, 125 floats were released at depths > 1800 m along the rim of the subpolar basin as part of OSNAP. These floats drifted in ocean for a maximum lifetime of 2 years and primarily tracked spreading pathways for the deep overflow waters. <br/>
 > <br/>
-> Using direct velocity measurements from the RAFOS floats, we provide quantitative descriptions of the deep circulation pathways and variabilities across the subpolar North Atlantic. The constructed fields in this study will serve as a reference point for future studies on the deep circulation as well as the Meridional Overturning Circulation in the North Atlantic. 
+> Using direct velocity measurements from the RAFOS floats, we provide quantitative descriptions of the deep circulation pathways and variabilities across the subpolar North Atlantic. The constructed fields in this study will serve as a reference point for future studies on the deep circulation as well as the Meridional Overturning Circulation in the North Atlantic. <br/>
+> <br/>
+> Topographic fractures and upper-ocean eddies could significantly influence the deep circulation pathways and variabilities. More information may be found in [Zou et al. 2017. Progress in Oceanography](http://doi.org/10.1016/j.pocean.2017.10.003) and [Zou et al. 2020. Nature Communications](http://doi.org/10.1038/s41467-020-15513-4). 
 
 <img width="90%" height="auto" src="/assets/float2.png">
 
@@ -33,7 +35,9 @@ Figure: Trajectories of the floats after launch (launch locations are indicated 
 
 Figure: Gridded mean velocity vectors in the deep (> 1800 m) subpolar North Atlantic, color coded by the velocity magnitudes. The gridded field is constructed using Objective Analysis. White hatches denote areas where estimates may not be reliable due to relatively sparse measurements.
 
-* Based on the float trajectories, spreading pathways of the Iceland-Scotland Overflow Water (ISOW) in the eastern North Atlantic are revised. For more information, see [Zou et al. 2017. Progress in Oceanography](http://doi.org/10.1016/j.pocean.2017.10.003). 
+> <br/>
+
+<img width="90%" height="auto" src="/assets/combined.png">
 
 <img width="65%" height="auto" style="float: left; margin-right: 20px; margin-top: 0px;" src="/assets/ISOW.png">
 
@@ -50,7 +54,6 @@ Figure: Revised pathways (blue curves) for ISOW in the eastern North Atlantic ba
 <br/>
 
 
-* Can upper-layer eddies influence the deep water spreading pathways? Float observations show that eddy and meandering activities associated with the North Atlantic Current could determine the ISOW pathways near the Charlie-Gibbs Fracture Zone (CGFZ). For more information: [Zou et al. 2020. Nature Communications](http://doi.org/10.1038/s41467-020-15513-4). 
 
 
 ---
