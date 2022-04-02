@@ -21,11 +21,17 @@ Figure: A schematic illustrating water mass transformation in the Labrador Sea. 
 ## Deep Ocean Circulation in the Subpolar North Atlantic
 
 > Deep ocean circulation in the subpolar North Atlantic constitutes the AMOC lower limb. Its circulation pathways and variability are important for carbon uptake, storage and export in the ocean. In order to improve current understanding on the deep circulation, 125 floats were released at depths > 1800 m along the rim of the subpolar basin as part of OSNAP. These floats drifted in ocean for a maximum lifetime of 2 years and primarily tracked spreading pathways for the deep overflow waters.
+> <br/>
+> Using direct velocity measurements from the RAFOS floats, we provide quantitative descriptions of the deep circulation pathways and variabilities across the subpolar North Atlantic. The constructed fields in this study will serve as a reference point for future studies on the deep circulation as well as the Meridional Overturning Circulation in the North Atlantic. 
 
 <img width="90%" height="auto" src="/assets/float2.png">
 
 Figure: Trajectories of the floats after launch (launch locations are indicated as red circles). Bottom topography is shaded in blue. CGFZ: Charlie-Gibbs Fracture Zone; ISOW: Iceland-Scotland Overflow Water; DSOW: Denmark Strait Overflow Water. <br/>
 <br/>
+
+<img width="90%" height="auto" src="/assets/gridded.png">
+
+Figure: Gridded mean velocity vectors in the deep (> 1800 m) subpolar North Atlantic, color coded by the velocity magnitudes. The gridded field is constructed using Objective Analysis. White hatches denote areas where estimates may not be reliable due to relatively sparse measurements.
 
 * Based on the float trajectories, spreading pathways of the Iceland-Scotland Overflow Water (ISOW) in the eastern North Atlantic are revised. For more information, see [Zou et al. 2017. Progress in Oceanography](http://doi.org/10.1016/j.pocean.2017.10.003). 
 
