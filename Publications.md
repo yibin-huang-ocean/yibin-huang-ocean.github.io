@@ -7,13 +7,11 @@ title: "Publications"
 
 ### Refereed
 
-[15] Lozier, M.S., A.S. Bower, H.H. Furey, K.L. Drouin, X. Xu and **S. Zou**. **Overflow Water Pathways in the North Atlantic**. *Under review in Progress in Oceanography*
+[14] Lozier, M.S., A.S. Bower, H.H. Furey, K.L. Drouin, X. Xu and **S. Zou**. **Overflow Water Pathways in the North Atlantic**. *Under review in Progress in Oceanography*
 
-[14] Wang, S., A. Foster, E.A. Lenz, J. Kessler, J. Stroeve, L.O. Anderson, M. Turetsky, R. Betts, **S. Zou**, W. Liu, W.R. Boos, Z. Hausfather. **Mechanisms and Impacts of Climate Tipping Elements**. *Under review in Reviews of Geophysics*
+[13] Wang, S., A. Foster, E.A. Lenz, J. Kessler, J. Stroeve, L.O. Anderson, M. Turetsky, R. Betts, **S. Zou**, W. Liu, W.R. Boos, Z. Hausfather. **Mechanisms and Impacts of Climate Tipping Elements**. *Under review in Reviews of Geophysics*
 
-[13] Liu, Z., S. Gu, **S. Zou**, S. Zhang and Y. Song. **Wind Steering of Eastern Interior Pathway of Atlantic Meridional Overturning Circulation**. *Submitted*.
-
-[12] Gu, S., Z. Liu, H.C. Ng, J. Lynch-Stieglitz, J.F. McManus, M. Spall, A. Jahn, C. He, L. Li, M. Yan, L. Wu and **S. Zou**. **Intensified AMOC Eastern Interior Pathway of Glacial North Atlantic Intermediate Water**. *Submitted*.
+[12] Liu, Z., S. Gu, **S. Zou**, S. Zhang and Y. Song. **Wind Steering of Eastern Interior Pathway of Atlantic Meridional Overturning Circulation**. *Under review*.
 
 [11] Zhai, Y., J. Yang, X. Wan and **S. Zou**. **The Eastern Atlantic Basin Pathway for the Export of the North Atlantic Deep Waters**. *[Geophysical Research Letters](https://doi.org/10.1029/2021GL095615)*.
 
