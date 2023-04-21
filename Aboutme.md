@@ -4,10 +4,10 @@ title: "About me"
 ---
 
 <!-- Profile picture -->
-<img width="100%" height="auto" style="float: left; margin-right: 20px;" src="/assets/Group_photo.jpeg">
+<img width="100%" height="auto" style="float: left; margin-right: 20px;" src="/assets/personal picture.jpg">
 
-I am a physical oceanographer. In 2013, I received my bachelor's degree in Marine Sciences at Ocean University of China and decided to pursue a career in oceanography. In the same year, I moved to the U.S. and became a graduate student in Physical Oceanography at [Duke University](https://www.duke.edu). During my graduate studies and many years beyond, I strived to understand an important ocean circulation system on earth - the Atlantic Meridional Overturning Circulation (AMOC) - by investigating its structure, variability, circulation pathways and forcing mechanisms. I paid particular attention to the deep ocean component of the AMOC because of its critical role in carbon uptake and ocean ventilation. In 2018, I received my Ph.D. at Duke and was appointed as a Postdoctoral Research Associate there.
+I am currently a Postdoctoral Researcher at National Oceanic and Atmospheric Administration' Pacific Marine Environmental Laboratory (NOAA PMEL) in Seattle at the Global Observations of Biogeochemistry and Ocean Physics Group, with joint appointment by University of California, Santa Cruz.
 
-In 2019, I was offered a position at the [Woods Hole Oceanographic Institution (WHOI)](https://www.whoi.edu) as a Postdoctoral Investigator. During the 2 years at WHOI, I switched my research focus to smaller scale processes in the North Atlantic - the (sub)mesoscale eddies. I was mostly interested in the eddy activities below the ocean surface, which is less observed or studied. Throughout my research, I love to view problems from different aspects by combining various types of data and methodologies. 
+My research interests are centered around biogeochemical cycles in the ocean, with the objective constraining the mechanism governing the carbon and oxygen cycling in the context of a changing climate. I combine a wide spectrum of scientific approaches including deck incubations, biogeochemical sensor data from autonomous platforms, satellite observations, as well as statistical and biogeochemical models to conduct my research.
 
-In fall 2021, I will move back to China and start a faculty position at [State Key Laboratory of Marine Environmental Science & College of Ocean and Earth Sciences, Xiamen University](https://mel2.xmu.edu.cn/melwebold/en/). More fun to come!
+More fun to come!
