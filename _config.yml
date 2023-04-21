@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications.md", title: "Publications", icon: book}
   - {file: "Presentations.md", title: "Presentations", icon: book}
   - {file: "Contacts.md", title: "Contacts", icon: book}
-  - {file: "CV", url: "/CV.pdf",title: "CV", icon: address-book}
+  - {file: "/CV.pdf",title: "CV", icon: address-book}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
