@@ -30,6 +30,8 @@ title: "Publications"
  
 [2] **Huang, Y.,** Laws, E., Chen, B., Huang, B., 2019. **Stimulation of heterotrophic and autotrophic metabolism in the mixing zone of the Kuroshio Current and northern South China Sea: implications for export production.** *Journal of Geophysical Research: Biogeosciences.* doi:[10.1029/2018jg004833](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JG004833). 
 
+### 2018
+[1] **Huang, Y.,** Yang, B., Chen, B., Qiu, G., Wang, H., Huang, B., 2018. **Net community production in the South China Sea Basin estimated from in situ O2 measurements on an Argo profiling float. ** * Deep Sea Research Part I: Oceanographic Research Papers. * doi:[ 10.1016/j.dsr.2017.11.002](https://www.sciencedirect.com/science/article/abs/pii/S0967063717301280). 
 
 
 
