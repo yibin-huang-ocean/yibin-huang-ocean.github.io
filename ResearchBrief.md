@@ -5,60 +5,11 @@ layout: page
 
 ---
 
-## On the Linkage between Labrador Sea Convection and the AMOC
+## Constraining Upper-Ocean Carbon Export with Biogeochemical Profiling Floats:  Toward Persistent Training and Validation of Satellite Carbon Export Algorithms
 
-> The Atlantic Meridional Overturning Circulation (AMOC), a critical component of the climate system, was shown to be linked to convective activities in the Labrador Sea according to some modeling studies. However, this linkage was questioned by recent observations from the Overturning in the Subpolar North Atlantic Program (OSNAP), which revealed weak diapycnal transformation (i.e. imprint on the AMOC) in the Labrador Sea. <br/>
+>  am currently working on an NSF-funded project associated with NASA EXPORTS that incorporates data from multiple biogeochemical profiling floats, a mooring, and ships in the eastern subarctic Pacific. We are using these data to constrain upper-ocean tracer budgets to quantify carbon cycling and export over multiple years. The goal of the project is to improve understanding of the biological carbon pump and its predictability from remote sensing. <br/>
 > <br/>
-> Using OSNAP and reanalysis dataset, we find that the weak diapycnal transformation in the Labrador Sea can be attributed to significant density compensation by temperature and salinity changes in the basin's boundary currents. This finding highlights the critical relationship between temperature and salinity in determining the overturning strength in the Labrador Sea and underlines the necessity of accurate freshwater flux estimates for improved AMOC predictions.
-> For more information: [Zou et al. 2020. Nature Geoscience](http://doi.org/10.1038/s41561-019-0517-1). 
+> For more information: [Huang et al. 2022. Global Biogeochemical Cycles](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GB007178). 
 
-<img width="80%" height="auto" src="/assets/schematic.png">
-
-Figure: A schematic illustrating water mass transformation in the Labrador Sea. Warm and salty waters enter the basin via the West Greenland Current (WGC) and exit in the Labrador Current (LC) with cold and fresh anomalies, a result from the exchange between the boundary current and the cold and fresh basin interior. The resultant sharp tilt of isotherm (i.e. constant temperature surface) from the WGC to the LC suggests a strong transformation with respect to temperature space (red arrow). In contrast, the isopycnal (i.e. constant density surface) slope is comparable on both sides of the basin due to density compensation, which results in a weak diapycnal transformation (black arrow).
-
----
-
-## Deep Ocean Circulation in the Subpolar North Atlantic
-
-> Deep ocean circulation in the subpolar North Atlantic constitutes the AMOC lower limb. Its circulation pathways and variability are important for carbon uptake, storage and export in the ocean. In order to improve current understanding on the deep circulation, 125 floats were released at depths > 1800 m along the rim of the subpolar basin as part of OSNAP. These floats drifted in ocean for a maximum lifetime of 2 years and primarily tracked spreading pathways for the deep overflow waters. <br/>
-> <br/>
-> Using direct velocity measurements from the RAFOS floats, we provide quantitative descriptions of the deep circulation pathways and variabilities across the subpolar North Atlantic. The constructed fields in this study will serve as a reference point for future studies on the deep circulation as well as the Meridional Overturning Circulation in the North Atlantic. <br/>
-> <br/>
-> Topographic fractures and upper-ocean eddies could significantly influence the deep circulation pathways and variabilities. More information may be found in [Zou et al. 2017. Progress in Oceanography](http://doi.org/10.1016/j.pocean.2017.10.003) and [Zou et al. 2020. Nature Communications](http://doi.org/10.1038/s41467-020-15513-4). 
-
-<img width="90%" height="auto" src="/assets/float2.png">
-
-Figure: Trajectories of the floats after launch (launch locations are indicated as red circles). Bottom topography is shaded in blue. CGFZ: Charlie-Gibbs Fracture Zone; ISOW: Iceland-Scotland Overflow Water; DSOW: Denmark Strait Overflow Water. <br/>
-
-<img width="90%" height="auto" src="/assets/gridded.png">
-
-Figure: Gridded mean velocity vectors in the deep (> 1800 m) subpolar North Atlantic, color coded by the velocity magnitudes. The gridded field is constructed using Objective Analysis. White hatches denote areas where estimates may not be reliable due to relatively sparse measurements.
-
-<img width="65%" height="auto" style="float: left; margin-right: 20px; margin-top: 0px;" src="/assets/ISOW.png">
-
-Figure: Revised pathways (blue curves) for ISOW in the eastern North Atlantic based on RAFOS and simulated floats. Volume transports (Sv) for major branches from a high-resolution ocean model are labeled in blue, compared to transports reported in previous studies (magenta). Percentages in red indicate the Lagrangian quantification of ISOW pathways.<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
----
-
-## Subsurface Eddy Activities near Greenland
-
-> Lagrangian float trajectories reveal abundant cyclonic rotations below 1800m near the southern tip of Greenland. The cyclonic rotations are very likely associated with the propagating Denmark Strait Overflow Cyclones, which are generated by vortex stretching associated with the overflow descent south of the Denmark Strait. The cyclones could influence the boundary currents around Greenland by introducing transport and property anomalies. For more information: [Zou et al. 2021. Journal of Physical Oceanography](https://journals.ametsoc.org/view/journals/phoc/51/10/JPO-D-20-0288.1.xml). 
-
-<img width="60%" height="auto" style="float: left; margin-right: 20px; margin-top: 0px;" src="/assets/Wavelet.png">
-
-Figure : Rotations traced out by the RAFOS floats. Cyclonic (counter-clockwise) rotations and anti-cyclonic (clockwise) rotations are indicated as blue (red) dots. Light blue curves represent the float trajectories. Figure by Heather Furey, WHOI.
-
+<img width="80%" height="auto" src="/assets/NASA-export.jpeg">
 
