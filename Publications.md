@@ -7,11 +7,9 @@ title: "Publications"
 
 ### Refereed
 
-[14] Lozier, M.S., A.S. Bower, H.H. Furey, K.L. Drouin, X. Xu and **S. Zou**. **Overflow Water Pathways in the North Atlantic**. *Under review in Progress in Oceanography*
+### 2023
 
-[13] Wang, S., A. Foster, E.A. Lenz, J. Kessler, J. Stroeve, L.O. Anderson, M. Turetsky, R. Betts, **S. Zou**, W. Liu, W.R. Boos, Z. Hausfather. **Mechanisms and Impacts of Climate Tipping Elements**. *Under review in Reviews of Geophysics*
-
-[12] Liu, Z., S. Gu, **S. Zou**, S. Zhang and Y. Song. **Wind Steering of Eastern Interior Pathway of Atlantic Meridional Overturning Circulation**. *Under review*.
+[1] **Huang, Y**., Eveleth, R., Nicholson, D., Cassar, N., 2022. **Can we estimate air-sea flux of biological oxygen from total dissolved oxygen?** *[Global Biogeochemical Cycles](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GB007145)*.
 
 [11] Zhai, Y., J. Yang, X. Wan and **S. Zou**. **The Eastern Atlantic Basin Pathway for the Export of the North Atlantic Deep Waters**. *[Geophysical Research Letters](https://doi.org/10.1029/2021GL095615)*.
 
