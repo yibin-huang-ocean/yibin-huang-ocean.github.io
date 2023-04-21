@@ -11,7 +11,7 @@ layout: page
 > <br/>
 
 <img width="80%" height="auto" src="/assets/NASA-export.jpeg">
-> <br/>
+
 > For more information: [Huang et al. 2022. Global Biogeochemical Cycles](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GB007178). 
 
 
