@@ -12,3 +12,5 @@ title: "Presentations"
 2023.03 **Biogeochemical profiling floats provide new insights into the biological pump in the Southern Ocean**, University of Washington, Seattle, USA.
 
 2022.02 **Remote assessment of export of distinct biogenic carbon pools in the Ocean**, Joint Exploration of the Twilight Zone Ocean Network Seminar (JETZON), London, England.
+
+2021.04 **Insights on the biological pump in the Northeast Pacific from the biogeochemical profiling floats observations**, University of Washington, Seattle, USA.
