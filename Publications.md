@@ -9,8 +9,8 @@ title: "Publications"
 
 ### 2023
 
-[1] **Huang, Y**., Eveleth, R., Nicholson, D., Cassar, N., 2022. **Can we estimate air-sea flux of biological oxygen from total dissolved oxygen?** *[Global Biogeochemical Cycles](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GB007145)*. [Media: US Ocean Carbon & Biogeochemistry Research Highlight![image](https://user-images.githubusercontent.com/131423763/233731725-2b73dbd1-fc3f-4927-a909-4c5ee8af3a2e.png)
-](https://www.us-ocb.org/reconstruct-airseaflux-biological-oxygen/)
+[1] **Huang, Y**., Eveleth, R., Nicholson, D., Cassar, N., 2022. **Can we estimate air-sea flux of biological oxygen from total dissolved oxygen?** *Global Biogeochemical Cycles doi:[10.1029/2021GB007145](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GB007145)*. [Media: US Ocean Carbon & Biogeochemistry Research Highlight](https://user-images.githubusercontent.com/131423763/233731725-2b73dbd1-fc3f-4927-a909-4c5ee8af3a2e.png)
+
 
 [11] Zhai, Y., J. Yang, X. Wan and **S. Zou**. **The Eastern Atlantic Basin Pathway for the Export of the North Atlantic Deep Waters**. *[Geophysical Research Letters](https://doi.org/10.1029/2021GL095615)*.
 
