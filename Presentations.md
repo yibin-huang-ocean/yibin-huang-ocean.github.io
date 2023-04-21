@@ -7,6 +7,4 @@ title: "Presentations"
 
 ### Invited talks
 
-2021.12 **Deep Ocean Circulation in the Subpolar North Atlantic Observed by Acoustically-tracked Floats** (virtual). Ocean Circulation and Climate Dynamics Colloquium. GEOMAR, Kiel, Germany.
-
-
+2023.03 **Quantifying the biological carbon pump with tracer budget approaches**, ExOIS Forum, Woods Hole Oceanographic Institution, Woods Hole, USA.
