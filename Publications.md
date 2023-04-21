@@ -24,5 +24,10 @@ title: "Publications"
 [1] **Huang, Y.,** Nicholson, D., Huang, B., Cassar, N., 2022. **Global estimates of marine gross primary production based on machine‐learning upscaling of field observations** *Global Biogeochemical Cycles.* doi:[ 10.1029/2020GB006718](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GB006718). Media: [Duke University Science Highlight](https://nicholas.duke.edu/news/study-yields-new-estimates-marine-primary-production-key-cog-global-carbon-cycle)
 
 
+### 2019
+[1] **Huang, Y.,* Chen, B., Huang, B., Zhou, H., Yuan, Y., 2019. **Potential overestimation of 
+ community respiration in the western Pacific boundary ocean: What causes the putative net   
+ heterotrophy in oligotrophic systems?** * Limnology and Oceanography.* doi:[10.1002/lno.11179](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11179). 
+
 
 
