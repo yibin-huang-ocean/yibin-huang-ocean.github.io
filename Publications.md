@@ -25,9 +25,9 @@ title: "Publications"
 
 
 ### 2019
-[1] **Huang, Y.,* Chen, B., Huang, B., Zhou, H., Yuan, Y., 2019. **Potential overestimation of 
+[1] **Huang, Y.,** Chen, B., Huang, B., Zhou, H., Yuan, Y., 2019. **Potential overestimation of 
  community respiration in the western Pacific boundary ocean: What causes the putative net   
- heterotrophy in oligotrophic systems?** * Limnology and Oceanography.* doi:[10.1002/lno.11179](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11179). 
+ heterotrophy in oligotrophic systems?** *Limnology and Oceanography.* doi:[10.1002/lno.11179 (https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11179). 
 
 
 
