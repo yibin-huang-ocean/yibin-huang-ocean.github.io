@@ -20,5 +20,9 @@ title: "Publications"
 
 [4] **Huang, Y.,** Fassbender, F., Long, J., Johannessen, S., Bif, M., 2022. **Partitioning the export of distinct biogenic carbon pools in the Northeast Pacific Ocean using a biogeochemical profiling float** *Global Biogeochemical Cycles.* doi:[10.1029/2021GB007178](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GB007178). Media: [NOAA PMEL Research Highlight](https://www.pmel.noaa.gov/featured-publication/biogeochemical-profiling-float-tracks-export-distinct-carbon-pools-northeast)
 
+### 2021
+[1] **Huang, Y.,** Nicholson, D., Huang, B., Cassar, N., 2022. **Global estimates of marine gross primary production based on machine‐learning upscaling of field observations** *Global Biogeochemical Cycles.* doi:[ 10.1029/2020GB006718](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GB006718). Media: [Duke University Science Highlight](https://nicholas.duke.edu/news/study-yields-new-estimates-marine-primary-production-key-cog-global-carbon-cycle)
+
+
 
 
