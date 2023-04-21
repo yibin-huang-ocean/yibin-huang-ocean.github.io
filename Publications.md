@@ -33,8 +33,6 @@ title: "Publications"
 ### 2018
 [1] **Huang, Y.,** Yang, B., Chen, B., Qiu, G., Wang, H., Huang, B., 2018. **Net community production in the South China Sea Basin estimated from in situ O2 measurements on an Argo profiling float.** *Deep Sea Research Part I: Oceanographic Research Papers.* doi:[ 10.1016/j.dsr.2017.11.002](https://www.sciencedirect.com/science/article/abs/pii/S0967063717301280). 
 
-[2] **Huang, Y., Liu, X., Laws, E., Chen, B., Li, Y., Xie, Y., Wu, Y., Gao, K., Huang, B., **Effects  
- of increasing atmospheric CO2 on the marine phytoplankton and bacterial metabolism during a  
- bloom: A coastal mesocosm study** *Science of the Total Environment. * doi:[10.1016/j.scitotenv.2018.03.222](https://www.sciencedirect.com/science/article/abs/pii/S0048969718309811). 
+[2] **Huang, Y., Liu, X., Laws, E., Chen, B., Li, Y., Xie, Y., Wu, Y., Gao, K., Huang, B., **Effects of increasing atmospheric CO2 on the marine phytoplankton and bacterial metabolism during a bloom: A coastal mesocosm study** *Science of the Total Environment. * doi:[10.1016/j.scitotenv.2018.03.222](https://www.sciencedirect.com/science/article/abs/pii/S0048969718309811). 
 
 
