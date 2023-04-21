@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Aboutme.md", title: "Home",icon: home} #icon: "home"
+  - {file: "index.html", title: "Home",icon: home} #icon: "home"
   - {file: "ResearchBrief.md", title: "Research Brief", icon: book}
   - {file: "Publications.md", title: "Publications", icon: book}
   - {file: "Presentations.md", title: "Presentations", icon: book}
@@ -28,3 +28,4 @@ comments:
 
 plugins:
  - jekyll-feed
+
