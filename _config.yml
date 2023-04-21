@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "ResearchBrief.md", title: "Research Brief", icon: book}
   - {file: "Publications.md", title: "Publications", icon: book}
   - {file: "Presentations.md", title: "Presentations", icon: book}
-  - {title: "CV", url: "/CV.pdf", icon: book}
+  - {file: "CV.pdf", title: "CV",icon: book} #icon: "home"
   - {file: "Contacts.md", title: "Contacts", icon: address-book}
 
 comments:
