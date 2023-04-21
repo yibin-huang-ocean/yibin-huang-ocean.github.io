@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Presentations.md", title: "Presentations", icon: book}
   - {file: "Contacts.md", title: "Contacts", icon: address-book}
   - {file: "CV.pdf", title: "CV",icon: book} #icon: "home"
-
+  - {title: "CV", url: "/CV.pdf", title: CV}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
