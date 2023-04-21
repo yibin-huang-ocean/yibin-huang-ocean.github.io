@@ -18,4 +18,7 @@ title: "Publications"
 [3] Li, C., Chiang, K., Laws, E., Liu, X., Chen, J., **Huang, Y.,** Tai, A., Huang, B., 2022. **Quasi-antiphase diel
       patterns of abundance and cell size/biomass of picophytoplankton in the oligotrophic ocean.** *Geophysical Research Letters.* doi:[10.1029/2022GL097753](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL097753). 
 
+[4] **Huang, Y.,** Fassbender, F., Long, J., Johannessen, S., Bif, M., 2022. **Partitioning the export of distinct biogenic carbon pools in the Northeast Pacific Ocean using a biogeochemical profiling float** *Global Biogeochemical Cycles.* doi:[10.1029/2021GB007178](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GB007178). Media: [NOAA PMEL Research Highlight](https://www.pmel.noaa.gov/featured-publication/biogeochemical-profiling-float-tracks-export-distinct-carbon-pools-northeast)
+
+
 
