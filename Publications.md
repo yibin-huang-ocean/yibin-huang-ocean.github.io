@@ -5,7 +5,7 @@ title: "Publications"
 
 ---
 
-### Refereed
+### Peer-reviewed Publications
 
 ### 2023
 [1] **Huang, Y.,** Fassbender, F., Bushinsky, S., 2023. **Biological activity maintains the seasonal carbon sink in the Southern Ocean.** *Proceedings of the National Academy of Sciences of the United States of America.* doi:[10.1073/pnas.2217909120](https://www.us-ocb.org/reconstruct-airseaflux-biological-oxygen/)
