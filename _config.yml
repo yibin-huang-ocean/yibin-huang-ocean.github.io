@@ -20,8 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "ResearchBrief.md", title: "Research Brief", icon: book}
   - {file: "Publications.md", title: "Publications", icon: book}
   - {file: "Presentations.md", title: "Presentations", icon: book}
-  - {file: "Contacts.md", title: "Contacts", icon: book}
-
+  - {file: "Contacts.md", title: "Contacts", icon: address-book}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
@@ -29,3 +28,4 @@ comments:
 
 plugins:
  - jekyll-feed
+
