@@ -8,7 +8,7 @@ title: "Publications"
 ### Peer-reviewed Publications
 
 ### 2023
-[1] **Huang, Y.,** Fassbender, F., Bushinsky, S., 2023. **Biological activity maintains the seasonal carbon sink in the Southern Ocean.** *Proceedings of the National Academy of Sciences of the United States of America.* doi:[10.1073/pnas.221790912](https://www.pnas.org/doi/10.1073/pnas.2217909120). Media: [US Ocean Carbon & Biogeochemistry Research Highlight](https://www.us-ocb.org/reconstruct-airseaflux-biological-oxygen/)
+[1] **Huang, Y.,** Fassbender, F., Bushinsky, S., 2023. **Biological activity maintains the seasonal carbon sink in the Southern Ocean.** *Proceedings of the National Academy of Sciences of the United States of America.* doi:[10.1073/pnas.221790912](https://www.pnas.org/doi/10.1073/pnas.2217909120). Media: [NOAA Research Highlight](https://research.noaa.gov/article/ArtMID/587/ArticleID/2992/One-of-the-planet%e2%80%99s-most-important-carbon-sinks-is-revealing-its-secrets)
 ### 2022
 [1] **Huang, Y**., Eveleth, R., Nicholson, D., Cassar, N., 2022. **Can we estimate air-sea flux of biological oxygen from total dissolved oxygen?** *Global Biogeochemical Cycles.* doi:[10.1029/2021GB007145](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GB007145). Media: [US Ocean Carbon & Biogeochemistry Research Highlight](https://www.us-ocb.org/reconstruct-airseaflux-biological-oxygen/)
 
