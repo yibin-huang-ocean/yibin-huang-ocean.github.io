@@ -8,7 +8,7 @@ title: "Publications"
 ### Peer-reviewed Publications
 
 ### 2023
-[1] **Huang, Y.,** Fassbender, F., Bushinsky, S., 2023. **Biological activity maintains the seasonal carbon sink in the Southern Ocean.** *Proceedings of the National Academy of Sciences of the United States of America.* doi:[10.1073/pnas.221790912](https://www.pnas.org/doi/10.1073/pnas.2217909120). Media: [NOAA Research Highlight](https://research.noaa.gov/article/ArtMID/587/ArticleID/2992/One-of-the-planet%e2%80%99s-most-important-carbon-sinks-is-revealing-its-secrets)
+[1] **Huang, Y.,** Fassbender, F., Bushinsky, S., 2023. **Biological activity maintains the seasonal carbon sink in the Southern Ocean.** *Proceedings of the National Academy of Sciences of the United States of America.* doi:[10.1073/pnas.221790912](https://www.pnas.org/doi/10.1073/pnas.2217909120). Media: [NOAA Research Highlight](https://www.climate.gov/news-features/feed/one-planet%E2%80%99s-most-important-carbon-sinks-revealing-its-secrets)
 
 [2] Niebergall, A. K., Traylor, S., **Huang, Y.,** Feen, M., Meyer, M. G., McNair, H. M., ... & Cassar, N. 2023. **Evaluation of new and net community production estimates by multiple ship-based and autonomous observations in the Northeast Pacific Ocean.** *Elementa: Science of the Anthropocene.* doi:[10.1073/pnas.221790912](https://online.ucpress.edu/elementa/article/11/1/00107/196652/Evaluation-of-new-and-net-community-production). 
 
