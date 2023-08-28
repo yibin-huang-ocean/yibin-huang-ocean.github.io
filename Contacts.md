@@ -5,7 +5,7 @@ layout: page
 
 ---
 
-Email:  **yibin.huang@noaa.gov** or **yibin.huang.ocean@gmail.com**
+Email:  **yibin.huang.ocean@gmail.com**
 <br/>
 [Research Gate - Yibin Huang](https://www.researchgate.net/profile/Yibin-Huang-6)
 <br/>
