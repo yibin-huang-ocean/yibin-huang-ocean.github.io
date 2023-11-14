@@ -10,7 +10,9 @@ title: "Publications"
 ### 2023
 [1] **Huang, Y.,** Fassbender, F., Bushinsky, S., 2023. **Biological activity maintains the seasonal carbon sink in the Southern Ocean.** *Proceedings of the National Academy of Sciences of the United States of America.* doi:[10.1073/pnas.221790912](https://www.pnas.org/doi/10.1073/pnas.2217909120). Media: [NOAA Research Highlight](https://www.climate.gov/news-features/feed/one-planet%E2%80%99s-most-important-carbon-sinks-revealing-its-secrets)
 
-[2] Niebergall, A. K., Traylor, S., **Huang, Y.,** Feen, M., Meyer, M. G., McNair, H. M., ... & Cassar, N. 2023. **Evaluation of new and net community production estimates by multiple ship-based and autonomous observations in the Northeast Pacific Ocean.** *Elementa: Science of the Anthropocene.* doi:[10.1525/elementa.2021.00107](https://online.ucpress.edu/elementa/article/11/1/00107/196652/Evaluation-of-new-and-net-community-production). 
+[2] Chen, X. W., Hu, C., **Huang, Y.,** ... & Zhang, R. 2023. **Virus–host interactions drive contrasting bacterial diel dynamics in the ocean.** *Research.* doi:[10.34133/research.0213](https://spj.science.org/doi/full/10.34133/research.0213).
+
+[3] Niebergall, A. K., Traylor, S., **Huang, Y.,** Feen, M., Meyer, M. G., McNair, H. M., ... & Cassar, N. 2023. **Evaluation of new and net community production estimates by multiple ship-based and autonomous observations in the Northeast Pacific Ocean.** *Elementa: Science of the Anthropocene.* doi:[10.1525/elementa.2021.00107](https://online.ucpress.edu/elementa/article/11/1/00107/196652/Evaluation-of-new-and-net-community-production). 
 
 ### 2022
 [1] **Huang, Y**., Eveleth, R., Nicholson, D., Cassar, N., 2022. **Can we estimate air-sea flux of biological oxygen from total dissolved oxygen?** *Global Biogeochemical Cycles.* doi:[10.1029/2021GB007145](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GB007145). Media: [US Ocean Carbon & Biogeochemistry Research Highlight](https://www.us-ocb.org/reconstruct-airseaflux-biological-oxygen/)
